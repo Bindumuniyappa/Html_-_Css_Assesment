@@ -1,0 +1,59 @@
+.bg-image{
+    width:100vw;
+    height: 100vh;
+    background-image: url("background.jpg");
+    /* background-position:fixed; */
+    background-size: cover;
+    position: relative;
+
+}
+.round{
+    width: 700px;
+    height: 700px;
+    background-color: #F6DDCC;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+.inside-image{
+    width: 90px;
+    height: 90px;
+    background-image: url("css 2_1.jpg");
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    background-color:#F6DDCC;
+}
+.text1{
+    font-size: 25px;
+    position:absolute;
+    top:200px ;
+    left: 230px;
+    text-align: center;
+    color: #4C5E46;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#text2{
+    font-size: 100px;
+    position: absolute;
+    top: 280px;
+    left: 110px;
+    color: #4C5E46;
+}
+#text3{
+    font-size: 25px;
+    position: absolute;
+    top:430px;
+    left: 230px;
+    color: #4C5E46;
+}
+#text4{
+    font-size: 20px;
+    position: absolute;
+    top: 500px;
+    left: 250px;
+    color: #4C5E46;
+    text-align: center;
+    font-family:cursive;
+}
